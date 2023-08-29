@@ -9,7 +9,8 @@ not enough, sometimes with a good balance; either way, I want to know).
 ## Installation
 
 1. Put the `clock` script in a directory listed in your `PATH`.
-2. Edit the `LOGFILE=` line at the top of the script to point to the file in
+2. Make the `clock` script executable (`chmod +x /path/to/clock`).
+3. Edit the `LOGFILE=` line at the top of the script to point to the file in
    which you want to save the data.
 
 ## Usage
